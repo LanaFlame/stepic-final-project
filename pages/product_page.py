@@ -1,6 +1,7 @@
 from pages.base_page import BasePage
 from selenium.webdriver.common.by import By
 from .locators import ProductPageLocators
+from .locators import BasePageLocators
 import time
 import pytest
 
